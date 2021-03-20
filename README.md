@@ -1,7 +1,7 @@
 ### Olá a todos 👋
 
 - Este é o perfil da Fatec Mogi Mirim, no Github. 
-- Aqui estão os repositórios de códigos dos eventos realizados na Faculdade.
+- Aqui estão os repositórios de códigos dos eventos Dev Day realizados na Faculdade.
 
 ## Curiosidade sobre a Fatec - Histórico
 ▶️ Pelo Decreto no. 51.878, de 06/06/2007, criou-se a Faculdade de Tecnologia de Mogi Mirim, como uma unidade de ensino Tecnológico do Centro Estadual de Educação Tecnológica Paula Souza, administração do governo José Serra.
